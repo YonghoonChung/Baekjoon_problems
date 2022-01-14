@@ -1,5 +1,11 @@
 {
   "Version": 1,
-  "ProjectMap": {},
-  "NextColorIndex": 0
+  "ProjectMap": {
+    "e865ca19-072a-4576-be15-941137f36dfa": {
+      "ProjectGuid": "e865ca19-072a-4576-be15-941137f36dfa",
+      "DisplayName": "10718_220114",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
 }
